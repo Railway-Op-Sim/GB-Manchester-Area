@@ -16,6 +16,17 @@ A simulation of the railways in and around Manchester UK
 | Timetable |  :x: |
 | Documentation |  :x: |
 
+## Data Sources
+
+- [TRAKSY.UK](https://traksy.uk/)
+- [RealTimeTrains](https://www.realtimetrains.co.uk/search/detailed)
+- [Open Train Times](https://www.opentraintimes.com/maps)
+- [OpenRailwayMap](https://www.openrailwaymap.org/)
+- [Network Rail North Western (North) Sectional Appendix](https://www.networkrail.co.uk/industry-and-commercial/information-for-operators/national-electronic-sectional-appendix/)
+
+Status icons by Freepik, pixelmeetup, Pixel Perfect on FlatIcon.com.
+
+
 # Railway Operation Simulator Template Map 
 A brief description of what the map represents, including era, whether the route is fictional and the level of difficulty.
 
