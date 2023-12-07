@@ -1,0 +1,15 @@
+rly_file = "Manchester-Area.rly"
+ttb_files = []
+img_files = [ "Manchester-Area.bmp",]
+doc_files = [ "README.md",]
+release_date = "2023-12-07"
+version = "1.0.0"
+country_code = "GB"
+factual = true
+description = ""
+year = 2023
+display_name = "Manchester Area"
+name = "Manchester Area"
+signal_position = "left"
+author = "AlbertBall"
+contributors = []
