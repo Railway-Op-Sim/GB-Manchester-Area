@@ -1,3 +1,21 @@
+# Manchester-Area
+A simulation of the railways in and around Manchester UK
+
+![Manchester-Area](Images/Manchester-Area.bmp)
+
+## Current Status
+
+| Stage         | Status        |
+| ------------- |:-------------:|
+| Track Plan     | :heavy_check_mark: |
+| Signalling      | :heavy_check_mark: |
+| Naming | :heavy_check_mark: |
+| Speed Limits | :heavy_check_mark: |
+| Distances | :heavy_check_mark: |
+| Preferred Directions | :heavy_check_mark: |
+| Timetable |  :x: |
+| Documentation |  :x: |
+
 # Railway Operation Simulator Template Map 
 A brief description of what the map represents, including era, whether the route is fictional and the level of difficulty.
 
