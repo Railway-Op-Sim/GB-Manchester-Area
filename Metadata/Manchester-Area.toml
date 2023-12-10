@@ -1,5 +1,5 @@
 rly_file = "Manchester-Area.rly"
-ttb_files = []
+ttb_files = [ "Manchester Area.ttb",]
 img_files = [ "Manchester-Area.bmp",]
 doc_files = [ "README.md",]
 release_date = "2023-12-07"
